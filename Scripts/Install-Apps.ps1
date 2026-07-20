@@ -1,5 +1,5 @@
 # =========================================================
-# Core Apps Installer — MDT post-imaging payload (sanitized)
+# Core Apps Installer - MDT post-imaging payload (sanitized)
 # Runs as the final task-sequence step: system policy, then
 # the full corporate app stack, silent + logged.
 # =========================================================
